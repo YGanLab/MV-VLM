@@ -42,8 +42,7 @@ If you find this code useful, please consider citing it by:
   title={Screen Detection from Egocentric Image Streams Leveraging Multi-View Vision Language Model},
   author={Li, Xueshen and Shen, Sen and Hou, Xinlong and Gao, Xinran and Huang, Ziyi and and Holiday, Steven and Cribbet Matthew and White, Susan and Sazonov, Edward and Gan, Yu},
   journal={IEEE Transactions on Multimedia},
-  year={2025},
-  addendum = "(\textbf{IF: 9.7})",
+  year={2025}
 }
 
 ```
